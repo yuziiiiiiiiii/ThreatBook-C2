@@ -58,7 +58,7 @@ xx-csrf
 
 ![4](https://github.com/yuziiiiiiiiii/ThreatBook-C2/assets/138445912/5a2de377-ec44-434a-9107-730c02a59880)
 
-将关键信息填入config.ini中
+将关键信息填入config.txt中（实战中可将关键信息直接填入相应的脚本对应位置，通过pyinstaller打包脚本后直接执行无需config.txt）
 
 ![5](https://github.com/yuziiiiiiiiii/ThreatBook-C2/assets/138445912/f8858b6b-0b38-4e45-a3df-dcf862103fba)
 
