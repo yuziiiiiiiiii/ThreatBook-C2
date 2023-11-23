@@ -1,4 +1,0 @@
-short_message_id=
-csrf_token=
-rememberme=
-xx_csrf=
